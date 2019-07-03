@@ -13,5 +13,3 @@ end
 def move(board, user_input, value = "X")
  board[user_input]=value
 end
-
-
